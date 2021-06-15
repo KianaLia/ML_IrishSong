@@ -1,2 +1,2 @@
 # ML_projects
-I push my ML practice projects here
+These projects are my codes for practicing different applications of machine learning.
