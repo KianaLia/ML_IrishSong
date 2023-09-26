@@ -1,4 +1,16 @@
-# NLP_IrishSong
 
-This noteBook contains an NLP algorithm which is trained on an old Irish song and can predict the next words of the song!
-Cute :))
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/KianaLia/ai-irish-poet.git 
+```
+
+Go to the project directory and open this file
+
+```bash
+  NLP_IrishSong.ipynb
+```
+
+then run any cell you want and explore the code.
