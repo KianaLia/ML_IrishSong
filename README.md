@@ -1,4 +1,10 @@
 
+# ai-irish-poet
+
+A Fun language model trained to versify Irish poets!
+
+
+
 ## Run Locally
 
 Clone the project
@@ -10,7 +16,8 @@ Clone the project
 Go to the project directory and open this file
 
 ```bash
-  nlp-model.ipynb
+  NLP_IrishSong.ipynb
 ```
 
 then run any cell you want and explore the code.
+
