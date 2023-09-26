@@ -16,7 +16,7 @@ Clone the project
 Go to the project directory and open this file
 
 ```bash
-  NLP_IrishSong.ipynb
+  nlp-model.ipynb
 ```
 
 then run any cell you want and explore the code.
