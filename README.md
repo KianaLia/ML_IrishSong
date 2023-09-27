@@ -1,7 +1,7 @@
 
 # ai-irish-poet
 
-A Fun language model trained to versify Irish poets!
+A Fun language model trained to versify Irish poets! 🎶
 
 
 
